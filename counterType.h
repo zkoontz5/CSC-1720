@@ -23,19 +23,21 @@ class counterType
 {
    private:
       int counter;
-    
+
    public:
       //Constructors 
       counterType();
       counterType(int);
-      
+
       void displayCounter()const;
       void decrementCounter();
       void incrementCounter();
       int getCounter()const;
       void setCounter(int = 0);
       void initializeCounter();
-                               
+
 };
 
-#endif    
+#endif
+~                                                                               
+~                        

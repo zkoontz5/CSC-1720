@@ -75,5 +75,4 @@ void counterType::initializeCounter()
 {
    counter = 0;
 }
-                                                       
 
